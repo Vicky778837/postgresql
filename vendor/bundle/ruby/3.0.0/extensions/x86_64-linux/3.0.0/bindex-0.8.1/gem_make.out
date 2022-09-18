@@ -1,0 +1,15 @@
+current directory: /home/user/Desktop/ROR/myapp12/vendor/bundle/ruby/3.0.0/gems/bindex-0.8.1/ext/skiptrace
+/home/user/.rvm/rubies/ruby-3.0.0/bin/ruby -I /home/user/.rvm/rubies/ruby-3.0.0/lib/ruby/site_ruby/3.0.0 extconf.rb
+creating Makefile
+
+current directory: /home/user/Desktop/ROR/myapp12/vendor/bundle/ruby/3.0.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20220919-15978-g51llh sitelibdir\=./.gem.20220919-15978-g51llh clean
+
+current directory: /home/user/Desktop/ROR/myapp12/vendor/bundle/ruby/3.0.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20220919-15978-g51llh sitelibdir\=./.gem.20220919-15978-g51llh
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.so
+
+current directory: /home/user/Desktop/ROR/myapp12/vendor/bundle/ruby/3.0.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20220919-15978-g51llh sitelibdir\=./.gem.20220919-15978-g51llh install
+/usr/bin/install -m 0755 cruby.so ./.gem.20220919-15978-g51llh/skiptrace/internal
